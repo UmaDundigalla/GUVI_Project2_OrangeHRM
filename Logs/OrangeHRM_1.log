@@ -1,0 +1,1157 @@
+2022-10-20 23:50:01,111:INFO:====== WebDriver manager ======
+2022-10-20 23:50:02,843:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-20 23:50:04,366:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-20 23:50:04,775:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-20 23:50:07,361:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-20 23:50:48,822:INFO:*********Launching OrangeHRM website*********
+2022-10-20 23:50:49,120:INFO:***********TC_Login_01**********
+2022-10-20 23:50:49,121:INFO:********Verifying the Valid Login Functionality*****
+2022-10-20 23:50:52,883:INFO:*******Login is Successful*******
+2022-10-20 23:52:18,118:INFO:====== WebDriver manager ======
+2022-10-20 23:52:20,108:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-20 23:52:22,053:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-20 23:52:22,509:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-20 23:52:25,180:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-20 23:52:47,273:INFO:*********Launching OrangeHRM website*********
+2022-10-20 23:52:47,564:INFO:***********TC_Login_02**********
+2022-10-20 23:52:47,564:INFO:********Verifying the InValid Login Functionality*****
+2022-10-20 23:52:56,101:INFO:******LoginFailed*****
+2022-10-20 23:54:38,771:INFO:====== WebDriver manager ======
+2022-10-20 23:54:40,510:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-20 23:54:42,686:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-20 23:54:42,806:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-20 23:54:45,481:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-20 23:55:13,370:INFO:*********Launching OrangeHRM website*********
+2022-10-20 23:55:17,001:INFO:***********TC_Login_02**********
+2022-10-20 23:55:17,001:INFO:********Verifying the InValid Login Functionality*****
+2022-10-20 23:55:17,810:INFO:******LoginFailed*****
+2022-10-20 23:56:47,966:INFO:====== WebDriver manager ======
+2022-10-20 23:56:49,645:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-20 23:56:51,896:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-20 23:56:52,451:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-20 23:56:56,591:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-20 23:57:19,840:INFO:*********Launching OrangeHRM website*********
+2022-10-20 23:57:20,119:INFO:***********TC_Login_02**********
+2022-10-20 23:57:20,119:INFO:********Verifying the InValid Login Functionality*****
+2022-10-20 23:57:26,110:INFO:******LoginFailed*****
+2022-10-20 23:57:26,174:INFO:InvalidLogin is Successful
+2022-10-20 23:58:52,327:INFO:====== WebDriver manager ======
+2022-10-20 23:58:54,108:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-20 23:58:56,095:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-20 23:58:56,572:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-20 23:58:59,006:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-20 23:59:19,176:INFO:*********Launching OrangeHRM website*********
+2022-10-20 23:59:21,105:INFO:***********TC_Login_02**********
+2022-10-20 23:59:21,105:INFO:********Verifying the InValid Login Functionality*****
+2022-10-20 23:59:21,891:INFO:******LoginFailed*****
+2022-10-20 23:59:22,063:INFO:InvalidLogin is Successful
+2022-10-21 00:00:28,492:INFO:====== WebDriver manager ======
+2022-10-21 00:00:30,177:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-21 00:00:32,237:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-21 00:00:32,831:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-21 00:00:38,147:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-21 00:00:52,493:INFO:*********Launching OrangeHRM website*********
+2022-10-21 00:00:52,786:INFO:***********TC_Login_02**********
+2022-10-21 00:00:52,786:INFO:********Verifying the InValid Login Functionality*****
+2022-10-21 00:00:55,162:INFO:******LoginFailed*****
+2022-10-21 00:00:55,272:INFO:InvalidLogin is Successful
+2022-10-21 00:17:52,345:INFO:====== WebDriver manager ======
+2022-10-21 00:17:53,905:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-21 00:17:55,676:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-21 00:17:56,065:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-21 00:17:58,680:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-21 00:18:23,184:INFO:*********Launching OrangeHRM website*********
+2022-10-21 00:18:23,465:INFO:***********TC_Login_01**********
+2022-10-21 00:18:23,465:INFO:********Verifying the Valid Login Functionality*****
+2022-10-21 00:18:26,655:INFO:*******Login is Successful*******
+2022-10-21 00:19:21,109:INFO:====== WebDriver manager ======
+2022-10-21 00:19:22,775:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-21 00:19:24,548:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-21 00:19:24,967:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-21 00:19:27,745:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-21 00:19:46,965:INFO:*********Launching OrangeHRM website*********
+2022-10-21 00:19:47,245:INFO:***********TC_Login_02**********
+2022-10-21 00:19:47,245:INFO:********Verifying the InValid Login Functionality*****
+2022-10-21 00:19:49,816:INFO:******LoginFailed*****
+2022-10-21 00:19:49,929:INFO:********InvalidCredentials*******
+2022-10-21 00:19:49,929:INFO:********InvalidLogin is Successful********
+2022-10-21 00:21:34,648:INFO:====== WebDriver manager ======
+2022-10-21 00:21:36,384:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-21 00:21:38,444:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-21 00:21:38,824:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-21 00:21:44,354:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-21 00:22:07,005:INFO:*********Launching OrangeHRM website*********
+2022-10-21 00:22:07,271:INFO:***********TC_Login_01**********
+2022-10-21 00:22:07,271:INFO:********Verifying the Valid Login Functionality*****
+2022-10-21 00:22:10,576:INFO:*******Login is Successful*******
+2022-10-21 23:45:30,702:INFO:====== WebDriver manager ======
+2022-10-21 23:45:32,308:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-21 23:45:34,109:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-21 23:45:34,453:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-21 23:45:37,436:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-21 23:45:53,887:INFO:*********Launching OrangeHRM website*********
+2022-10-21 23:45:54,183:INFO:***********TC_Login_01**********
+2022-10-21 23:45:54,183:INFO:********Verifying the Valid Login Functionality*****
+2022-10-21 23:45:57,945:INFO:*******Login is Successful*******
+2022-10-22 00:58:57,781:INFO:====== WebDriver manager ======
+2022-10-22 00:58:59,592:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 00:59:01,402:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 00:59:01,822:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 00:59:07,192:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 00:59:20,932:INFO:*******TC_PIM_01********
+2022-10-22 00:59:23,022:INFO:*******Employee added*******
+2022-10-22 00:59:29,692:INFO:********Employee Personal Details are added********
+2022-10-22 01:00:37,142:INFO:====== WebDriver manager ======
+2022-10-22 01:00:38,493:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 01:00:40,202:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 01:00:40,592:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 01:00:42,702:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 01:00:56,473:INFO:*******TC_PIM_01********
+2022-10-22 01:00:58,604:INFO:*******Employee added*******
+2022-10-22 01:01:06,843:INFO:********Employee Personal Details are added********
+2022-10-22 01:02:58,963:INFO:====== WebDriver manager ======
+2022-10-22 01:03:00,367:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 01:03:02,090:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 01:03:02,483:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 01:03:05,341:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 01:03:17,912:INFO:*******TC_PIM_01********
+2022-10-22 01:03:20,255:INFO:*******Employee added*******
+2022-10-22 01:03:26,853:INFO:********Employee Personal Details are added********
+2022-10-22 01:04:06,012:INFO:====== WebDriver manager ======
+2022-10-22 01:04:07,376:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 01:04:09,092:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 01:04:09,492:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 01:04:11,545:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 01:04:25,956:INFO:*******TC_PIM_01********
+2022-10-22 01:04:31,153:INFO:*******Employee added*******
+2022-10-22 01:04:38,796:INFO:********Employee Personal Details are added********
+2022-10-22 01:12:19,757:INFO:====== WebDriver manager ======
+2022-10-22 01:12:21,151:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 01:12:22,852:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 01:12:23,213:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 01:12:25,583:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 01:12:38,722:INFO:*******TC_PIM_01********
+2022-10-22 01:12:40,711:INFO:*******Employee added*******
+2022-10-22 01:12:47,417:INFO:********Employee Personal Details are added********
+2022-10-22 13:04:53,501:INFO:====== WebDriver manager ======
+2022-10-22 13:04:55,251:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:04:57,031:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:04:57,412:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:05:02,910:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:05:18,186:INFO:*******TC_PIM_01********
+2022-10-22 13:05:20,713:INFO:*******Employee added*******
+2022-10-22 13:05:27,522:INFO:********Employee Personal Details are added********
+2022-10-22 13:06:12,444:INFO:====== WebDriver manager ======
+2022-10-22 13:06:13,896:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:06:15,351:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:06:15,721:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:06:17,815:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:06:34,646:INFO:*******TC_PIM_01********
+2022-10-22 13:06:36,804:INFO:*******Employee added*******
+2022-10-22 13:06:59,190:INFO:====== WebDriver manager ======
+2022-10-22 13:07:01,244:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:07:02,731:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:07:03,096:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:07:05,955:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:07:30,227:INFO:*******TC_PIM_01********
+2022-10-22 13:07:35,794:INFO:*******Employee added*******
+2022-10-22 13:08:29,901:INFO:====== WebDriver manager ======
+2022-10-22 13:08:31,301:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:08:32,961:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:08:33,733:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:08:35,712:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:08:56,654:INFO:*******TC_PIM_01********
+2022-10-22 13:09:00,094:INFO:*******Employee added*******
+2022-10-22 13:12:44,361:INFO:====== WebDriver manager ======
+2022-10-22 13:12:45,583:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:12:46,931:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:12:47,326:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:12:49,415:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:13:08,871:INFO:*******TC_PIM_01********
+2022-10-22 13:13:11,226:INFO:*******Employee added*******
+2022-10-22 13:16:09,186:INFO:====== WebDriver manager ======
+2022-10-22 13:16:10,503:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:16:12,170:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:16:12,531:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:16:14,530:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:16:38,430:INFO:*******TC_PIM_01********
+2022-10-22 13:21:27,720:INFO:====== WebDriver manager ======
+2022-10-22 13:21:29,048:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:21:30,699:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:21:31,403:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:21:33,715:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:21:58,121:INFO:*******TC_PIM_01********
+2022-10-22 13:22:37,986:INFO:====== WebDriver manager ======
+2022-10-22 13:22:39,280:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:22:40,911:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:22:41,281:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:22:43,875:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:23:08,215:INFO:*******TC_PIM_01********
+2022-10-22 13:25:18,082:INFO:====== WebDriver manager ======
+2022-10-22 13:25:19,464:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:25:20,900:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:25:21,263:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:25:26,360:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:25:51,482:INFO:*******TC_PIM_01********
+2022-10-22 13:26:32,491:INFO:====== WebDriver manager ======
+2022-10-22 13:26:34,231:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:26:36,150:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:26:36,521:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:26:38,981:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:26:58,806:INFO:*******TC_PIM_01********
+2022-10-22 13:27:01,711:INFO:*******Employee added*******
+2022-10-22 13:27:09,593:INFO:********Employee Personal Details are added********
+2022-10-22 13:46:34,410:INFO:====== WebDriver manager ======
+2022-10-22 13:46:35,957:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 13:46:37,428:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 13:46:37,801:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 13:46:40,021:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 13:46:55,451:INFO:*********Launching OrangeHRM website*********
+2022-10-22 13:46:55,745:INFO:***********TC_Login_02**********
+2022-10-22 13:46:55,745:INFO:********Verifying the InValid Login Functionality*****
+2022-10-22 13:46:59,953:INFO:******LoginFailed*****
+2022-10-22 21:53:49,354:INFO:====== WebDriver manager ======
+2022-10-22 21:53:51,798:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 21:53:53,944:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 21:53:54,347:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 21:53:57,844:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 21:54:09,964:INFO:*******TC_PIM_01********
+2022-10-22 21:54:12,053:INFO:*******Employee added*******
+2022-10-22 21:54:18,599:INFO:********Employee Personal Details are added********
+2022-10-22 21:59:20,243:INFO:====== WebDriver manager ======
+2022-10-22 21:59:22,255:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 21:59:24,306:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 21:59:24,674:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 21:59:27,616:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 21:59:39,119:INFO:*******TC_PIM_01********
+2022-10-22 21:59:41,284:INFO:*******Employee added*******
+2022-10-22 21:59:47,642:INFO:********Employee Personal Details are added********
+2022-10-22 22:02:16,003:INFO:====== WebDriver manager ======
+2022-10-22 22:02:17,707:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 22:02:19,932:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 22:02:20,288:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 22:02:25,255:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 22:02:36,293:INFO:*******TC_PIM_01********
+2022-10-22 22:02:38,388:INFO:*******Employee added*******
+2022-10-22 22:02:44,989:INFO:********Employee Personal Details are added********
+2022-10-22 22:12:22,334:INFO:====== WebDriver manager ======
+2022-10-22 22:12:24,684:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 22:12:27,224:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 22:12:27,583:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 22:12:30,954:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 22:12:43,984:INFO:*******TC_PIM_01********
+2022-10-22 22:13:05,863:INFO:====== WebDriver manager ======
+2022-10-22 22:13:08,282:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 22:13:10,823:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 22:13:11,193:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 22:13:13,683:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 22:13:24,357:INFO:*******TC_PIM_01********
+2022-10-22 22:14:10,563:INFO:====== WebDriver manager ======
+2022-10-22 22:14:11,993:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 22:14:13,963:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 22:14:14,324:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 22:14:16,943:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 22:14:26,733:INFO:*******TC_PIM_01********
+2022-10-22 22:14:28,723:INFO:*******Employee added*******
+2022-10-22 22:15:33,323:INFO:====== WebDriver manager ======
+2022-10-22 22:15:34,654:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 22:15:36,374:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 22:15:36,724:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 22:15:38,873:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 22:15:48,563:INFO:*******TC_PIM_01********
+2022-10-22 22:15:50,587:INFO:*******Employee added*******
+2022-10-22 22:19:26,282:INFO:====== WebDriver manager ======
+2022-10-22 22:19:27,683:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 22:19:29,436:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 22:19:29,805:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 22:19:31,864:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 22:19:41,993:INFO:*******TC_PIM_01********
+2022-10-22 22:19:43,982:INFO:*******Employee added*******
+2022-10-22 22:19:50,553:INFO:********Employee Personal Details are added********
+2022-10-22 22:20:23,233:INFO:====== WebDriver manager ======
+2022-10-22 22:20:24,623:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 22:20:26,473:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 22:20:26,874:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 22:20:28,973:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 22:20:39,717:INFO:*******TC_PIM_01********
+2022-10-22 22:20:41,723:INFO:*******Employee added*******
+2022-10-22 22:20:48,124:INFO:********Employee Personal Details are added********
+2022-10-22 22:24:04,303:INFO:====== WebDriver manager ======
+2022-10-22 22:24:05,673:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 22:24:07,423:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 22:24:07,777:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 22:24:09,873:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 22:24:17,956:INFO:*********Launching OrangeHRM website*********
+2022-10-22 22:24:18,233:INFO:***********TC_Login_01**********
+2022-10-22 22:24:18,233:INFO:********Verifying the Valid Login Functionality*****
+2022-10-22 22:24:20,603:INFO:*******Login is Successful*******
+2022-10-22 22:25:55,892:INFO:====== WebDriver manager ======
+2022-10-22 22:25:57,313:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 22:25:58,993:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 22:25:59,353:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 22:26:01,383:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 22:26:12,114:INFO:*******TC_PIM_01********
+2022-10-22 22:26:14,453:INFO:*******Employee added*******
+2022-10-22 22:26:20,963:INFO:********Employee Personal Details are added********
+2022-10-22 22:30:09,214:INFO:====== WebDriver manager ======
+2022-10-22 22:30:10,691:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 22:30:12,694:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 22:30:13,044:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 22:30:15,190:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 22:30:24,166:INFO:*********Launching OrangeHRM website*********
+2022-10-22 22:30:24,449:INFO:***********TC_Login_01**********
+2022-10-22 22:30:24,449:INFO:********Verifying the Valid Login Functionality*****
+2022-10-22 22:30:27,024:INFO:*******Login is Successful*******
+2022-10-22 23:20:22,434:INFO:====== WebDriver manager ======
+2022-10-22 23:20:24,011:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:20:25,729:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:20:26,084:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:20:29,314:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:20:46,753:INFO:*******TC_PIM_02********
+2022-10-22 23:22:50,665:INFO:====== WebDriver manager ======
+2022-10-22 23:22:52,055:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:22:53,704:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:22:54,064:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:22:58,669:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:23:19,013:INFO:*******TC_PIM_02********
+2022-10-22 23:25:27,017:INFO:====== WebDriver manager ======
+2022-10-22 23:25:28,394:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:25:30,104:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:25:30,469:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:25:32,545:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:26:07,053:INFO:*******TC_PIM_02********
+2022-10-22 23:27:56,414:INFO:====== WebDriver manager ======
+2022-10-22 23:27:57,805:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:27:59,505:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:27:59,863:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:28:02,910:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:28:42,076:INFO:*******TC_PIM_02********
+2022-10-22 23:29:24,094:INFO:====== WebDriver manager ======
+2022-10-22 23:29:25,805:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:29:27,693:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:29:28,048:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:29:30,223:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:30:06,172:INFO:*******TC_PIM_01********
+2022-10-22 23:30:31,928:INFO:====== WebDriver manager ======
+2022-10-22 23:30:33,425:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:30:35,384:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:30:35,746:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:30:41,156:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:31:24,467:INFO:*******TC_PIM_01********
+2022-10-22 23:31:26,981:INFO:*******Employee added*******
+2022-10-22 23:31:33,996:INFO:********Employee Personal Details are added********
+2022-10-22 23:31:55,473:INFO:====== WebDriver manager ======
+2022-10-22 23:31:56,731:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:31:58,425:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:31:58,775:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:32:01,105:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:32:36,704:INFO:*******TC_PIM_02********
+2022-10-22 23:33:50,077:INFO:====== WebDriver manager ======
+2022-10-22 23:33:51,446:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:33:53,144:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:33:53,519:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:33:55,333:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:34:29,626:INFO:*******TC_PIM_02********
+2022-10-22 23:37:34,355:INFO:====== WebDriver manager ======
+2022-10-22 23:37:35,874:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:37:37,305:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:37:37,658:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:37:40,684:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:38:39,185:INFO:*******TC_PIM_02********
+2022-10-22 23:40:36,995:INFO:====== WebDriver manager ======
+2022-10-22 23:40:38,364:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:40:39,988:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:40:40,346:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:40:42,444:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:41:29,686:INFO:*******TC_PIM_02********
+2022-10-22 23:41:32,398:INFO:********Employee Personal Details are edited********
+2022-10-22 23:43:22,255:INFO:====== WebDriver manager ======
+2022-10-22 23:43:23,504:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:43:25,198:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:43:25,568:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:43:28,284:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:44:04,375:INFO:*******TC_PIM_02********
+2022-10-22 23:44:09,267:INFO:********Employee Personal Details are edited********
+2022-10-22 23:52:01,654:INFO:====== WebDriver manager ======
+2022-10-22 23:52:03,171:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:52:04,784:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:52:05,168:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:52:07,193:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:52:53,797:INFO:*******TC_PIM_02********
+2022-10-22 23:52:56,746:INFO:********Employee Personal Details are edited********
+2022-10-22 23:55:30,630:INFO:====== WebDriver manager ======
+2022-10-22 23:55:32,015:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:55:33,683:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:55:34,056:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:55:36,515:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:56:05,375:INFO:*******TC_PIM_02********
+2022-10-22 23:56:08,427:INFO:********Employee Personal Details are edited********
+2022-10-22 23:57:16,895:INFO:====== WebDriver manager ======
+2022-10-22 23:57:18,244:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-22 23:57:19,910:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-22 23:57:20,296:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-22 23:57:24,995:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-22 23:57:55,005:INFO:*******TC_PIM_02********
+2022-10-22 23:57:57,698:INFO:********Employee Personal Details are edited********
+2022-10-23 00:00:01,470:INFO:====== WebDriver manager ======
+2022-10-23 00:00:02,957:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:00:04,735:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:00:04,941:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:00:07,286:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:00:32,190:INFO:*******TC_PIM_02********
+2022-10-23 00:00:34,566:INFO:********Employee Personal Details are edited********
+2022-10-23 00:01:08,664:INFO:====== WebDriver manager ======
+2022-10-23 00:01:10,128:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:01:11,745:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:01:12,114:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:01:13,985:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:01:46,157:INFO:*******TC_PIM_02********
+2022-10-23 00:01:50,335:INFO:********Employee Personal Details are edited********
+2022-10-23 00:04:41,227:INFO:====== WebDriver manager ======
+2022-10-23 00:04:43,138:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:04:45,205:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:04:45,566:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:04:47,985:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:05:12,105:INFO:*******TC_PIM_02********
+2022-10-23 00:05:15,899:INFO:********Employee Personal Details are edited********
+2022-10-23 00:06:03,809:INFO:====== WebDriver manager ======
+2022-10-23 00:06:05,185:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:06:06,879:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:06:07,808:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:06:09,586:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:06:44,145:INFO:*******TC_PIM_02********
+2022-10-23 00:06:46,576:INFO:********Employee Personal Details are edited********
+2022-10-23 00:09:40,368:INFO:====== WebDriver manager ======
+2022-10-23 00:09:41,726:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:09:43,425:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:09:43,806:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:09:49,054:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:10:21,291:INFO:*******TC_PIM_02********
+2022-10-23 00:10:28,716:INFO:********Employee Personal Details are edited********
+2022-10-23 00:13:25,325:INFO:====== WebDriver manager ======
+2022-10-23 00:13:26,866:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:13:28,634:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:13:29,004:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:13:31,448:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:13:55,614:INFO:*******TC_PIM_02********
+2022-10-23 00:13:59,506:INFO:********Employee Personal Details are edited********
+2022-10-23 00:26:12,954:INFO:====== WebDriver manager ======
+2022-10-23 00:26:14,454:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:26:16,235:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:26:16,616:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:26:21,545:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:26:39,622:INFO:*******TC_PIM_02********
+2022-10-23 00:26:43,425:INFO:********Employee Personal Details are edited********
+2022-10-23 00:27:55,713:INFO:====== WebDriver manager ======
+2022-10-23 00:27:57,015:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:27:58,843:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:27:59,194:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:28:01,321:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:28:21,272:INFO:*******TC_PIM_02********
+2022-10-23 00:28:25,426:INFO:********Employee Personal Details are edited********
+2022-10-23 00:29:07,954:INFO:====== WebDriver manager ======
+2022-10-23 00:29:09,335:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:29:11,046:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:29:11,146:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:29:13,324:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:29:36,105:INFO:*******TC_PIM_02********
+2022-10-23 00:32:24,615:INFO:====== WebDriver manager ======
+2022-10-23 00:32:26,059:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:32:27,767:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:32:28,124:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:32:30,205:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:32:52,043:INFO:*******TC_PIM_02********
+2022-10-23 00:32:54,568:INFO:********Employee Personal Details are edited********
+2022-10-23 00:36:20,775:INFO:====== WebDriver manager ======
+2022-10-23 00:36:22,676:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:36:24,765:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:36:25,134:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:36:28,456:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:36:49,244:INFO:*******TC_PIM_01********
+2022-10-23 00:36:52,144:INFO:*******Employee added*******
+2022-10-23 00:36:58,727:INFO:********Employee Personal Details are added********
+2022-10-23 00:37:45,923:INFO:====== WebDriver manager ======
+2022-10-23 00:37:47,492:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:37:49,324:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:37:49,680:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:37:51,678:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:38:09,147:INFO:*******TC_PIM_02********
+2022-10-23 00:38:12,531:INFO:********Employee Personal Details are edited********
+2022-10-23 00:46:55,629:INFO:====== WebDriver manager ======
+2022-10-23 00:46:57,503:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:46:59,539:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:46:59,900:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:47:04,753:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:47:21,320:INFO:*******TC_PIM_02********
+2022-10-23 00:47:24,927:INFO:********Employee Personal Details are edited********
+2022-10-23 00:47:40,334:INFO:====== WebDriver manager ======
+2022-10-23 00:47:41,787:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:47:43,180:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:47:43,545:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:47:45,354:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:48:01,804:INFO:*******TC_PIM_02********
+2022-10-23 00:48:05,700:INFO:********Employee Personal Details are edited********
+2022-10-23 00:49:41,424:INFO:====== WebDriver manager ======
+2022-10-23 00:49:42,948:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:49:44,689:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:49:45,063:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:49:47,495:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:50:05,098:INFO:*******TC_PIM_02********
+2022-10-23 00:50:10,489:INFO:********Employee Personal Details are edited********
+2022-10-23 00:56:04,977:INFO:====== WebDriver manager ======
+2022-10-23 00:56:06,639:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:56:08,397:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:56:08,745:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:56:10,844:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:56:26,810:INFO:*******TC_PIM_02********
+2022-10-23 00:59:04,594:INFO:====== WebDriver manager ======
+2022-10-23 00:59:06,054:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 00:59:07,784:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 00:59:08,148:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 00:59:10,350:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 00:59:25,834:INFO:*******TC_PIM_02********
+2022-10-23 01:00:31,294:INFO:====== WebDriver manager ======
+2022-10-23 01:00:32,994:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:00:34,724:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:00:35,074:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:00:37,374:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:00:55,086:INFO:*******TC_PIM_02********
+2022-10-23 01:02:23,385:INFO:====== WebDriver manager ======
+2022-10-23 01:02:25,225:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:02:26,864:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:02:27,244:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:02:30,425:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:02:46,587:INFO:*******TC_PIM_02********
+2022-10-23 01:03:42,493:INFO:====== WebDriver manager ======
+2022-10-23 01:03:43,763:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:03:45,394:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:03:45,745:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:03:48,499:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:04:03,504:INFO:*******TC_PIM_02********
+2022-10-23 01:04:57,313:INFO:====== WebDriver manager ======
+2022-10-23 01:04:58,638:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:05:00,375:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:05:00,735:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:05:02,549:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:05:18,084:INFO:*******TC_PIM_02********
+2022-10-23 01:06:27,844:INFO:====== WebDriver manager ======
+2022-10-23 01:06:29,242:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:06:30,994:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:06:31,375:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:06:34,188:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:06:49,564:INFO:*******TC_PIM_02********
+2022-10-23 01:06:52,768:INFO:********Employee Personal Details are edited********
+2022-10-23 01:07:13,526:INFO:====== WebDriver manager ======
+2022-10-23 01:07:14,884:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:07:16,534:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:07:16,885:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:07:19,938:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:07:35,264:INFO:*******TC_PIM_02********
+2022-10-23 01:07:38,455:INFO:********Employee Personal Details are edited********
+2022-10-23 01:08:20,668:INFO:====== WebDriver manager ======
+2022-10-23 01:08:22,414:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:08:24,444:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:08:24,804:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:08:27,435:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:08:42,586:INFO:*******TC_PIM_02********
+2022-10-23 01:08:45,813:INFO:********Employee Personal Details are edited********
+2022-10-23 01:09:07,178:INFO:====== WebDriver manager ======
+2022-10-23 01:09:08,894:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:09:10,734:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:09:11,105:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:09:13,204:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:09:29,095:INFO:*******TC_PIM_02********
+2022-10-23 01:09:32,321:INFO:********Employee Personal Details are edited********
+2022-10-23 01:12:02,368:INFO:====== WebDriver manager ======
+2022-10-23 01:12:03,956:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:12:05,684:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:12:06,079:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:12:08,167:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:12:21,176:INFO:*********Launching OrangeHRM website*********
+2022-10-23 01:12:21,465:INFO:***********TC_Login_01**********
+2022-10-23 01:12:21,465:INFO:********Verifying the Valid Login Functionality*****
+2022-10-23 01:12:23,814:INFO:*******Login is Successful*******
+2022-10-23 01:26:48,154:INFO:====== WebDriver manager ======
+2022-10-23 01:26:49,554:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:26:51,677:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:26:52,035:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:26:55,584:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:27:11,671:INFO:*******TC_PIM_03********
+2022-10-23 01:27:12,487:INFO:********Employee is deleted********
+2022-10-23 01:27:58,023:INFO:====== WebDriver manager ======
+2022-10-23 01:27:59,414:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:28:01,107:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:28:01,493:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:28:06,689:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:28:21,634:INFO:*******TC_PIM_03********
+2022-10-23 01:28:22,392:INFO:********Employee is deleted********
+2022-10-23 01:30:32,979:INFO:====== WebDriver manager ======
+2022-10-23 01:30:34,579:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:30:36,269:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:30:36,635:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:30:38,704:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:30:53,904:INFO:*******TC_PIM_03********
+2022-10-23 01:30:55,084:INFO:********Employee is deleted********
+2022-10-23 01:36:21,713:INFO:====== WebDriver manager ======
+2022-10-23 01:36:23,348:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:36:25,137:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:36:25,234:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:36:27,314:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:36:42,744:INFO:*******TC_PIM_03********
+2022-10-23 01:36:43,914:INFO:********Employee is deleted********
+2022-10-23 01:37:39,524:INFO:====== WebDriver manager ======
+2022-10-23 01:37:41,478:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:37:43,324:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:37:43,678:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:37:45,555:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:38:01,084:INFO:*******TC_PIM_03********
+2022-10-23 01:38:02,173:INFO:********Employee is deleted********
+2022-10-23 01:39:48,944:INFO:====== WebDriver manager ======
+2022-10-23 01:39:50,614:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:39:52,424:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:39:52,785:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:39:55,674:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:40:14,085:INFO:*******TC_PIM_03********
+2022-10-23 01:40:15,094:INFO:********Employee is deleted********
+2022-10-23 01:41:06,635:INFO:====== WebDriver manager ======
+2022-10-23 01:41:08,088:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-23 01:41:09,838:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-23 01:41:10,194:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-23 01:41:15,556:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-23 01:41:30,769:INFO:*******TC_PIM_03********
+2022-10-23 01:41:31,845:INFO:********Employee is deleted********
+2022-10-27 11:37:54,998:INFO:====== WebDriver manager ======
+2022-10-27 11:37:57,583:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 11:37:59,466:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 11:37:59,843:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 11:38:02,420:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 11:38:12,849:INFO:*********Launching OrangeHRM website*********
+2022-10-27 11:38:13,145:INFO:***********TC_Login_01**********
+2022-10-27 11:38:13,145:INFO:********Verifying the Valid Login Functionality*****
+2022-10-27 11:38:15,598:INFO:*******Login is Successful*******
+2022-10-27 11:39:54,134:INFO:====== WebDriver manager ======
+2022-10-27 11:39:56,527:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 11:39:58,317:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 11:39:58,688:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 11:40:01,115:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 11:40:10,197:INFO:*********Launching OrangeHRM website*********
+2022-10-27 11:40:10,452:INFO:***********TC_Login_02**********
+2022-10-27 11:40:10,464:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 11:40:11,934:INFO:******LoginFailed*****
+2022-10-27 11:40:12,067:INFO:********InvalidCredentials*******
+2022-10-27 11:40:12,067:INFO:********InvalidLogin is Successful********
+2022-10-27 12:01:45,498:INFO:====== WebDriver manager ======
+2022-10-27 12:01:47,024:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 12:01:48,747:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 12:01:49,125:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 12:01:51,233:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 12:01:59,380:INFO:*********Launching OrangeHRM website*********
+2022-10-27 12:01:59,659:INFO:***********TC_Login_02**********
+2022-10-27 12:01:59,659:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 12:05:31,889:INFO:====== WebDriver manager ======
+2022-10-27 12:05:33,330:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 12:05:35,089:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 12:05:35,453:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 12:05:37,576:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 12:05:45,686:INFO:*********Launching OrangeHRM website*********
+2022-10-27 12:05:45,945:INFO:***********TC_Login_02**********
+2022-10-27 12:05:45,945:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 12:49:31,002:INFO:====== WebDriver manager ======
+2022-10-27 12:49:32,578:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 12:49:34,221:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 12:49:34,682:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 12:49:36,934:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 12:49:55,100:INFO:*********Launching OrangeHRM website*********
+2022-10-27 12:49:55,365:INFO:***********TC_Login_02**********
+2022-10-27 12:49:55,365:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 12:50:02,298:INFO:******LoginFailed*****
+2022-10-27 12:50:02,369:INFO:********InvalidCredentials*******
+2022-10-27 12:50:02,369:INFO:********InvalidLogin is Successful********
+2022-10-27 13:06:56,021:INFO:====== WebDriver manager ======
+2022-10-27 13:06:57,603:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 13:06:59,581:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 13:06:59,936:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 13:07:02,047:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 13:07:23,996:INFO:*********Launching OrangeHRM website*********
+2022-10-27 13:07:24,278:INFO:***********TC_Login_02**********
+2022-10-27 13:07:24,280:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 13:08:16,131:INFO:====== WebDriver manager ======
+2022-10-27 13:08:17,445:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 13:08:19,192:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 13:08:19,566:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 13:08:21,694:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 13:08:37,753:INFO:*********Launching OrangeHRM website*********
+2022-10-27 13:08:38,031:INFO:***********TC_Login_02**********
+2022-10-27 13:08:38,031:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 13:10:03,482:INFO:====== WebDriver manager ======
+2022-10-27 13:10:05,128:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 13:10:07,301:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 13:10:07,696:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 13:10:09,864:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 13:10:29,350:INFO:*********Launching OrangeHRM website*********
+2022-10-27 13:10:29,643:INFO:***********TC_Login_02**********
+2022-10-27 13:10:29,644:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 13:11:41,545:INFO:====== WebDriver manager ======
+2022-10-27 13:11:43,102:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 13:11:45,053:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 13:11:45,418:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 13:11:48,211:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 13:12:10,073:INFO:*********Launching OrangeHRM website*********
+2022-10-27 13:12:10,389:INFO:***********TC_Login_02**********
+2022-10-27 13:12:10,389:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 22:42:20,989:INFO:====== WebDriver manager ======
+2022-10-27 22:42:22,894:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 22:42:24,369:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 22:42:24,750:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 22:42:26,914:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 22:42:38,571:INFO:*********Launching OrangeHRM website*********
+2022-10-27 22:42:38,845:INFO:***********TC_Login_01**********
+2022-10-27 22:42:38,845:INFO:********Verifying the Valid Login Functionality*****
+2022-10-27 22:42:42,899:INFO:*******Login is Successful*******
+2022-10-27 23:10:16,586:INFO:====== WebDriver manager ======
+2022-10-27 23:10:18,190:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:10:19,994:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:10:20,342:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:10:22,456:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:10:49,835:INFO:*********Launching OrangeHRM website*********
+2022-10-27 23:10:50,106:INFO:***********TC_Login_01**********
+2022-10-27 23:10:50,106:INFO:********Verifying the Valid Login Functionality*****
+2022-10-27 23:10:55,089:INFO:*******Login is Successful*******
+2022-10-27 23:10:55,089:INFO:************** Completed TC_Login_01 *********************
+2022-10-27 23:11:12,801:INFO:====== WebDriver manager ======
+2022-10-27 23:11:14,120:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:11:16,067:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:11:16,443:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:11:18,516:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:12:06,564:INFO:*********Launching OrangeHRM website*********
+2022-10-27 23:12:06,829:INFO:***********TC_Login_02**********
+2022-10-27 23:12:06,829:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 23:12:21,660:INFO:*******Invalid login test is Successful*******
+2022-10-27 23:12:21,660:INFO:************** Completed TC_Login_02 *********************
+2022-10-27 23:14:17,376:INFO:====== WebDriver manager ======
+2022-10-27 23:14:18,671:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:14:20,385:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:14:20,746:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:14:23,073:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:15:11,654:INFO:*********Launching OrangeHRM website*********
+2022-10-27 23:15:12,922:INFO:***********TC_Login_02**********
+2022-10-27 23:15:12,922:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 23:15:24,279:INFO:*******Invalid login test is Successful*******
+2022-10-27 23:15:24,374:INFO:************** Completed TC_Login_02 *********************
+2022-10-27 23:16:01,236:INFO:====== WebDriver manager ======
+2022-10-27 23:16:02,520:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:16:04,297:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:16:04,664:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:16:06,937:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:17:12,460:INFO:*******TC_PIM_01********
+2022-10-27 23:17:14,817:INFO:*******Employee added*******
+2022-10-27 23:17:22,359:INFO:********Employee Personal Details are added********
+2022-10-27 23:17:22,626:INFO:***************** Successfully Added New Employee ****************************
+2022-10-27 23:17:22,752:INFO:************** Completed TC_PIM_01 *********************
+2022-10-27 23:17:49,477:INFO:====== WebDriver manager ======
+2022-10-27 23:17:50,881:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:17:52,590:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:17:52,950:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:17:55,027:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:19:14,564:INFO:*******TC_PIM_01********
+2022-10-27 23:19:17,537:INFO:*******Employee added*******
+2022-10-27 23:19:25,081:INFO:********Employee Personal Details are added********
+2022-10-27 23:19:25,276:INFO:***************** Adding New Employee is Unsuccessful  ****************************
+2022-10-27 23:20:23,918:INFO:====== WebDriver manager ======
+2022-10-27 23:20:25,175:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:20:26,836:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:20:27,193:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:20:29,293:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:21:44,757:INFO:*******TC_PIM_01********
+2022-10-27 23:21:47,574:INFO:*******Employee added*******
+2022-10-27 23:21:54,883:INFO:********Employee Personal Details are added********
+2022-10-27 23:21:55,087:INFO:***************** Adding New Employee is Unsuccessful  ****************************
+2022-10-27 23:22:39,090:INFO:====== WebDriver manager ======
+2022-10-27 23:22:40,588:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:22:42,313:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:22:42,684:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:22:44,467:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:23:00,429:INFO:*******TC_PIM_01********
+2022-10-27 23:23:03,187:INFO:*******Employee added*******
+2022-10-27 23:23:10,235:INFO:********Employee Personal Details are added********
+2022-10-27 23:23:10,446:INFO:***************** Successfully Added New Employee ****************************
+2022-10-27 23:23:10,516:INFO:************** Completed TC_PIM_01 *********************
+2022-10-27 23:28:04,681:INFO:====== WebDriver manager ======
+2022-10-27 23:28:06,328:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:28:08,054:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:28:08,416:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:28:13,223:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:29:28,513:INFO:*******TC_PIM_01********
+2022-10-27 23:29:31,123:INFO:*******Employee added*******
+2022-10-27 23:29:39,316:INFO:********Employee Personal Details are added********
+2022-10-27 23:29:39,536:INFO:***************** Successfully Added New Employee ****************************
+2022-10-27 23:29:39,599:INFO:************** Completed TC_PIM_01 *********************
+2022-10-27 23:30:30,419:INFO:====== WebDriver manager ======
+2022-10-27 23:30:31,896:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:30:33,627:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:30:34,002:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:30:36,128:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:31:55,951:INFO:*******TC_PIM_02********
+2022-10-27 23:32:27,087:INFO:====== WebDriver manager ======
+2022-10-27 23:32:28,758:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:32:30,599:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:32:30,969:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:32:32,787:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:33:44,275:INFO:*******TC_PIM_02********
+2022-10-27 23:33:48,752:INFO:********Employee Personal Details are edited********
+2022-10-27 23:33:48,815:INFO:*************Completed TC_PIM_02**********
+2022-10-27 23:34:31,765:INFO:====== WebDriver manager ======
+2022-10-27 23:34:33,244:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:34:34,999:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:34:35,376:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:34:37,768:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:35:40,717:INFO:*******TC_PIM_03********
+2022-10-27 23:35:41,376:INFO:********Employee is deleted********
+2022-10-27 23:35:41,439:INFO:**********Completed TC_PIM_03***********
+2022-10-27 23:37:33,778:INFO:====== WebDriver manager ======
+2022-10-27 23:37:35,474:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:37:37,288:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:37:37,643:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:37:39,735:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:38:32,134:INFO:*********Launching OrangeHRM website*********
+2022-10-27 23:38:32,401:INFO:***********TC_Login_01**********
+2022-10-27 23:38:32,401:INFO:********Verifying the Valid Login Functionality*****
+2022-10-27 23:38:38,938:INFO:*******Login is Successful*******
+2022-10-27 23:38:38,938:INFO:************** Completed TC_Login_01 *********************
+2022-10-27 23:39:16,417:INFO:====== WebDriver manager ======
+2022-10-27 23:39:17,755:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:39:19,417:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:39:19,779:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:39:24,022:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:40:30,127:INFO:*********Launching OrangeHRM website*********
+2022-10-27 23:40:30,411:INFO:***********TC_Login_02**********
+2022-10-27 23:40:30,411:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 23:40:52,331:INFO:*******Invalid login test is Successful*******
+2022-10-27 23:40:52,387:INFO:************** Completed TC_Login_02 *********************
+2022-10-27 23:42:31,323:INFO:====== WebDriver manager ======
+2022-10-27 23:42:32,673:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:42:34,387:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:42:34,749:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:42:36,900:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:43:47,797:INFO:*******TC_PIM_01********
+2022-10-27 23:43:49,922:INFO:*******Employee added*******
+2022-10-27 23:43:57,824:INFO:********Employee Personal Details are added********
+2022-10-27 23:43:58,044:INFO:***************** Successfully Added New Employee ****************************
+2022-10-27 23:43:58,107:INFO:************** Completed TC_PIM_01 *********************
+2022-10-27 23:44:36,537:INFO:====== WebDriver manager ======
+2022-10-27 23:44:37,972:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:44:39,734:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:44:40,111:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:44:42,374:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:46:01,914:INFO:*******TC_PIM_02********
+2022-10-27 23:46:06,610:INFO:********Employee Personal Details are edited********
+2022-10-27 23:46:06,689:INFO:*************Completed TC_PIM_02**********
+2022-10-27 23:46:31,622:INFO:====== WebDriver manager ======
+2022-10-27 23:46:33,735:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:46:35,862:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:46:36,234:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:46:39,110:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:47:25,677:INFO:*******TC_PIM_02********
+2022-10-27 23:47:28,629:INFO:********Employee Personal Details are edited********
+2022-10-27 23:47:28,708:INFO:*************Completed TC_PIM_02**********
+2022-10-27 23:47:53,088:INFO:====== WebDriver manager ======
+2022-10-27 23:47:54,526:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:47:56,283:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:47:56,646:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:47:58,754:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:48:34,964:INFO:*******TC_PIM_03********
+2022-10-27 23:48:35,619:INFO:********Employee is deleted********
+2022-10-27 23:48:35,697:INFO:**********Completed TC_PIM_03***********
+2022-10-27 23:51:41,798:INFO:====== WebDriver manager ======
+2022-10-27 23:51:43,311:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:51:45,222:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:51:45,605:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:51:47,891:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:52:55,824:INFO:*********Launching OrangeHRM website*********
+2022-10-27 23:52:56,375:INFO:***********TC_Login_01**********
+2022-10-27 23:52:56,375:INFO:********Verifying the Valid Login Functionality*****
+2022-10-27 23:53:04,821:INFO:*******Login is Successful*******
+2022-10-27 23:53:04,821:INFO:************** Completed TC_Login_01 *********************
+2022-10-27 23:54:09,572:INFO:====== WebDriver manager ======
+2022-10-27 23:54:10,952:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:54:12,644:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:54:13,033:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:54:17,818:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:55:30,018:INFO:*********Launching OrangeHRM website*********
+2022-10-27 23:55:30,308:INFO:***********TC_Login_02**********
+2022-10-27 23:55:30,308:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 23:55:45,653:INFO:*******Invalid login test is Successful*******
+2022-10-27 23:55:46,265:INFO:************** Completed TC_Login_02 *********************
+2022-10-27 23:56:15,387:INFO:====== WebDriver manager ======
+2022-10-27 23:56:16,710:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:56:18,542:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:56:18,915:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:56:20,721:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-27 23:57:19,840:INFO:*********Launching OrangeHRM website*********
+2022-10-27 23:57:20,120:INFO:***********TC_Login_02**********
+2022-10-27 23:57:20,120:INFO:********Verifying the InValid Login Functionality*****
+2022-10-27 23:57:42,868:INFO:*******Invalid login test is Successful*******
+2022-10-27 23:57:43,497:INFO:************** Completed TC_Login_02 *********************
+2022-10-27 23:58:44,876:INFO:====== WebDriver manager ======
+2022-10-27 23:58:46,244:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-27 23:58:47,640:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-27 23:58:48,017:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-27 23:58:50,247:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:00:01,450:INFO:*******TC_PIM_01********
+2022-10-28 00:00:04,010:INFO:*******Employee added*******
+2022-10-28 00:00:16,829:INFO:********Employee Personal Details are added********
+2022-10-28 00:00:17,081:INFO:***************** Adding New Employee is Unsuccessful  ****************************
+2022-10-28 00:00:56,013:INFO:====== WebDriver manager ======
+2022-10-28 00:00:57,347:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:00:58,729:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:00:59,107:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:01:01,856:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:01:50,894:INFO:*******TC_PIM_01********
+2022-10-28 00:01:54,118:INFO:*******Employee added*******
+2022-10-28 00:02:01,108:INFO:********Employee Personal Details are added********
+2022-10-28 00:02:01,335:INFO:***************** Adding New Employee is Unsuccessful  ****************************
+2022-10-28 00:02:25,064:INFO:====== WebDriver manager ======
+2022-10-28 00:02:26,454:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:02:27,908:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:02:28,270:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:02:30,170:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:03:12,874:INFO:*******TC_PIM_01********
+2022-10-28 00:03:15,988:INFO:*******Employee added*******
+2022-10-28 00:03:22,281:INFO:********Employee Personal Details are added********
+2022-10-28 00:03:22,470:INFO:***************** Successfully Added New Employee ****************************
+2022-10-28 00:03:23,138:INFO:************** Completed TC_PIM_01 *********************
+2022-10-28 00:03:54,565:INFO:====== WebDriver manager ======
+2022-10-28 00:03:56,009:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:03:57,798:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:03:58,159:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:04:03,268:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:04:41,690:INFO:*******TC_PIM_02********
+2022-10-28 00:04:45,256:INFO:********Employee Personal Details are edited Successfully********
+2022-10-28 00:04:45,256:INFO:*************Completed TC_PIM_02**********
+2022-10-28 00:05:04,555:INFO:====== WebDriver manager ======
+2022-10-28 00:05:05,981:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:05:07,786:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:05:08,172:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:05:12,839:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:06:00,025:INFO:*******TC_PIM_03********
+2022-10-28 00:06:01,613:INFO:****** Delete Employee is Unsuccessful******
+2022-10-28 00:06:34,027:INFO:====== WebDriver manager ======
+2022-10-28 00:06:35,675:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:06:37,478:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:06:37,856:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:06:40,068:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:07:15,713:INFO:*******TC_PIM_03********
+2022-10-28 00:07:17,230:INFO:********Employee is deleted Successfully********
+2022-10-28 00:07:17,911:INFO:**********Completed TC_PIM_03***********
+2022-10-28 00:12:29,013:INFO:====== WebDriver manager ======
+2022-10-28 00:12:30,987:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:12:32,800:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:12:33,164:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:12:35,339:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:13:12,546:INFO:*********Launching OrangeHRM website*********
+2022-10-28 00:13:12,833:INFO:***********TC_Login_01**********
+2022-10-28 00:13:12,833:INFO:********Verifying the Valid Login Functionality*****
+2022-10-28 00:13:18,932:INFO:*******Login is Successful*******
+2022-10-28 00:13:18,932:INFO:************** Completed TC_Login_01 *********************
+2022-10-28 00:19:15,539:INFO:====== WebDriver manager ======
+2022-10-28 00:19:17,344:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:19:19,328:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:19:19,700:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:19:22,118:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:19:51,390:INFO:*********Launching OrangeHRM website*********
+2022-10-28 00:19:51,942:INFO:***********TC_Login_01**********
+2022-10-28 00:19:51,942:INFO:********Verifying the Valid Login Functionality*****
+2022-10-28 00:19:58,150:INFO:*******Login is Successful*******
+2022-10-28 00:19:58,150:INFO:************** Completed TC_Login_01 *********************
+2022-10-28 00:22:32,536:INFO:====== WebDriver manager ======
+2022-10-28 00:22:33,039:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 00:22:33,782:INFO:There is no [win32] chromedriver for browser 106.0.5249 in cache
+2022-10-28 00:22:33,782:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 00:22:34,874:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 00:22:54,659:INFO:*********Launching OrangeHRM website*********
+2022-10-28 00:22:55,050:INFO:***********TC_Login_01**********
+2022-10-28 00:22:55,050:INFO:********Verifying the Valid Login Functionality*****
+2022-10-28 00:22:59,092:INFO:*******Login is Successful*******
+2022-10-28 00:22:59,094:INFO:************** Completed TC_Login_01 *********************
+2022-10-28 00:23:31,104:INFO:====== WebDriver manager ======
+2022-10-28 00:23:32,626:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:23:34,514:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:23:34,866:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:23:37,050:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:24:09,582:INFO:*********Launching OrangeHRM website*********
+2022-10-28 00:24:09,840:INFO:***********TC_Login_01**********
+2022-10-28 00:24:09,840:INFO:********Verifying the Valid Login Functionality*****
+2022-10-28 00:24:16,967:INFO:*******Login is Successful*******
+2022-10-28 00:24:16,967:INFO:************** Completed TC_Login_01 *********************
+2022-10-28 00:25:02,617:INFO:====== WebDriver manager ======
+2022-10-28 00:25:04,012:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:25:05,738:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:25:06,108:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:25:08,318:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:26:02,742:INFO:*********Launching OrangeHRM website*********
+2022-10-28 00:26:03,031:INFO:***********TC_Login_01**********
+2022-10-28 00:26:03,031:INFO:********Verifying the Valid Login Functionality*****
+2022-10-28 00:26:11,485:INFO:*******Login is Successful*******
+2022-10-28 00:26:11,485:INFO:************** Completed TC_Login_01 *********************
+2022-10-28 00:43:02,665:INFO:====== WebDriver manager ======
+2022-10-28 00:43:03,540:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 00:43:04,431:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 00:43:05,561:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 00:43:16,146:INFO:*******TC_PIM_01********
+2022-10-28 00:43:20,893:INFO:*******Employee added*******
+2022-10-28 00:43:26,575:INFO:********Employee Personal Details are added********
+2022-10-28 00:43:26,990:INFO:***************** Successfully Added New Employee ****************************
+2022-10-28 00:43:27,175:INFO:************** Completed TC_PIM_01 *********************
+2022-10-28 00:43:57,821:INFO:====== WebDriver manager ======
+2022-10-28 00:43:59,389:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:44:01,273:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:44:01,665:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:44:06,533:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:45:17,827:INFO:====== WebDriver manager ======
+2022-10-28 00:45:18,346:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 00:45:19,088:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 00:45:20,110:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 00:45:29,223:INFO:*******TC_PIM_01********
+2022-10-28 00:45:33,544:INFO:*******Employee added*******
+2022-10-28 00:45:39,417:INFO:********Employee Personal Details are added********
+2022-10-28 00:45:39,843:INFO:***************** Successfully Added New Employee ****************************
+2022-10-28 00:45:39,843:INFO:************** Completed TC_PIM_01 *********************
+2022-10-28 00:47:17,059:INFO:====== WebDriver manager ======
+2022-10-28 00:47:17,581:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 00:47:18,418:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 00:47:19,605:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 00:47:24,957:INFO:*******TC_PIM_01********
+2022-10-28 00:47:29,043:INFO:*******Employee added*******
+2022-10-28 00:47:35,206:INFO:********Employee Personal Details are added********
+2022-10-28 00:47:35,627:INFO:***************** Successfully Added New Employee ****************************
+2022-10-28 00:47:35,627:INFO:************** Completed TC_PIM_01 *********************
+2022-10-28 00:49:23,666:INFO:====== WebDriver manager ======
+2022-10-28 00:49:24,605:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 00:49:25,569:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 00:49:26,917:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 00:49:32,053:INFO:*******TC_PIM_01********
+2022-10-28 00:49:36,205:INFO:*******Employee added*******
+2022-10-28 00:49:43,543:INFO:********Employee Personal Details are added********
+2022-10-28 00:49:44,256:INFO:***************** Successfully Added New Employee ****************************
+2022-10-28 00:49:44,256:INFO:************** Completed TC_PIM_01 *********************
+2022-10-28 00:50:13,141:INFO:====== WebDriver manager ======
+2022-10-28 00:50:13,973:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 00:50:14,868:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 00:50:16,312:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 00:50:21,330:INFO:*******TC_PIM_01********
+2022-10-28 00:50:25,697:INFO:*******Employee added*******
+2022-10-28 00:50:33,620:INFO:********Employee Personal Details are added********
+2022-10-28 00:50:34,157:INFO:***************** Successfully Added New Employee ****************************
+2022-10-28 00:50:34,157:INFO:************** Completed TC_PIM_01 *********************
+2022-10-28 00:50:59,247:INFO:====== WebDriver manager ======
+2022-10-28 00:51:01,522:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 00:51:02,608:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 00:51:04,035:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 00:51:09,955:INFO:*******TC_PIM_01********
+2022-10-28 00:51:14,256:INFO:*******Employee added*******
+2022-10-28 00:51:21,463:INFO:********Employee Personal Details are added********
+2022-10-28 00:51:22,351:INFO:***************** Successfully Added New Employee ****************************
+2022-10-28 00:51:22,351:INFO:************** Completed TC_PIM_01 *********************
+2022-10-28 00:52:46,307:INFO:====== WebDriver manager ======
+2022-10-28 00:52:46,998:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 00:52:48,412:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 00:52:49,582:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 00:52:54,161:INFO:*******TC_PIM_01********
+2022-10-28 00:52:57,582:INFO:*******Employee added*******
+2022-10-28 00:53:05,148:INFO:********Employee Personal Details are added********
+2022-10-28 00:53:05,809:INFO:***************** Successfully Added New Employee ****************************
+2022-10-28 00:53:05,809:INFO:************** Completed TC_PIM_01 *********************
+2022-10-28 00:55:08,843:INFO:====== WebDriver manager ======
+2022-10-28 00:55:10,721:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:55:12,679:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:55:13,057:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:55:15,634:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:55:28,966:INFO:*******TC_PIM_01********
+2022-10-28 00:55:30,960:INFO:*******Employee added*******
+2022-10-28 00:56:13,121:INFO:====== WebDriver manager ======
+2022-10-28 00:56:14,769:INFO:Get LATEST geckodriver version for 106.0 firefox
+2022-10-28 00:56:16,717:INFO:Getting latest mozilla release info for v0.32.0
+2022-10-28 00:56:17,078:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2022-10-28 00:56:19,402:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.32]
+2022-10-28 00:56:30,521:INFO:*******TC_PIM_01********
+2022-10-28 00:56:32,623:INFO:*******Employee added*******
+2022-10-28 00:58:29,640:INFO:====== WebDriver manager ======
+2022-10-28 00:58:30,179:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 00:58:30,866:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 00:58:31,867:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 00:58:36,204:INFO:*******TC_PIM_01********
+2022-10-28 00:58:40,330:INFO:*******Employee added*******
+2022-10-28 00:59:36,414:INFO:====== WebDriver manager ======
+2022-10-28 00:59:37,129:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 00:59:38,008:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 00:59:39,126:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 00:59:46,008:INFO:*******TC_PIM_01********
+2022-10-28 00:59:47,652:INFO:*******Employee added*******
+2022-10-28 01:00:26,263:INFO:====== WebDriver manager ======
+2022-10-28 01:00:26,846:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 01:00:27,832:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 01:00:28,883:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 01:00:33,407:INFO:*******TC_PIM_01********
+2022-10-28 01:00:37,609:INFO:*******Employee added*******
+2022-10-28 01:04:33,239:INFO:********Employee Personal Details are added********
+2022-10-28 01:04:33,658:INFO:***************** Successfully Added New Employee ****************************
+2022-10-28 01:04:33,659:INFO:************** Completed TC_PIM_01 *********************
+2022-10-28 01:11:00,996:INFO:====== WebDriver manager ======
+2022-10-28 01:11:01,577:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 01:11:02,268:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 01:11:03,179:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 01:11:07,008:INFO:*********Launching OrangeHRM website*********
+2022-10-28 01:11:07,125:INFO:***********TC_Login_01**********
+2022-10-28 01:11:07,125:INFO:********Verifying the Valid Login Functionality*****
+2022-10-28 01:11:10,150:INFO:*******Login is Successful*******
+2022-10-28 01:11:10,150:INFO:************** Completed TC_Login_01 *********************
+2022-10-28 22:35:27,110:INFO:====== WebDriver manager ======
+2022-10-28 22:35:27,609:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 22:35:28,349:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 22:35:29,568:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 22:35:56,768:INFO:*******TC_PIM_02********
+2022-10-28 22:36:05,588:INFO:********Employee Personal Details are edited Successfully********
+2022-10-28 22:36:05,588:INFO:*************Completed TC_PIM_02**********
+2022-10-28 22:36:25,638:INFO:====== WebDriver manager ======
+2022-10-28 22:36:26,116:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 22:36:26,750:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 22:36:27,852:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 22:37:16,295:INFO:*******TC_PIM_01********
+2022-10-28 22:37:23,125:INFO:*******Employee added*******
+2022-10-28 22:37:29,526:INFO:********Employee Personal Details are added********
+2022-10-28 22:37:30,004:INFO:***************** Successfully Added New Employee ****************************
+2022-10-28 22:37:30,004:INFO:************** Completed TC_PIM_01 *********************
+2022-10-28 22:47:39,884:INFO:====== WebDriver manager ======
+2022-10-28 22:47:40,465:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 22:47:41,215:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 22:47:42,247:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 22:48:08,406:INFO:*******TC_PIM_02********
+2022-10-28 22:48:43,777:INFO:====== WebDriver manager ======
+2022-10-28 22:48:44,299:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 22:48:45,106:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 22:48:46,481:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 22:49:08,455:INFO:*******TC_PIM_02********
+2022-10-28 22:50:42,496:INFO:====== WebDriver manager ======
+2022-10-28 22:50:43,050:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 22:50:43,865:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 22:50:45,713:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 22:51:14,818:INFO:*******TC_PIM_02********
+2022-10-28 22:52:19,429:INFO:====== WebDriver manager ======
+2022-10-28 22:52:20,041:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 22:52:20,781:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 22:52:22,054:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 22:52:44,856:INFO:*******TC_PIM_02********
+2022-10-28 22:54:28,266:INFO:====== WebDriver manager ======
+2022-10-28 22:54:29,034:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 22:54:29,912:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 22:54:31,167:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 22:54:53,745:INFO:*******TC_PIM_02********
+2022-10-28 22:54:59,955:INFO:********Employee Personal Details are edited Successfully********
+2022-10-28 22:54:59,955:INFO:*************Completed TC_PIM_02**********
+2022-10-28 22:56:27,454:INFO:====== WebDriver manager ======
+2022-10-28 22:56:27,978:INFO:Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-28 22:56:28,578:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-28 22:56:29,691:INFO:Driver has been saved in cache [C:\Users\vk3le\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-28 22:56:55,243:INFO:*******TC_PIM_03********
+2022-10-28 22:56:59,528:INFO:********Employee is deleted Successfully********
+2022-10-28 22:56:59,716:INFO:**********Completed TC_PIM_03***********
